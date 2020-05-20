@@ -3,3 +3,7 @@
 # Find the application at:
 
 [https://github.com/devjayantmalik/products.git](https://github.com/devjayantmalik/products.git)
+
+# Author
+
+Jayant Malik
