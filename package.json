@@ -1,0 +1,14 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "description": "application server to have data related to products",
+    "main": "index.js",
+    "author": "Jayant Malik",
+    "license": "MIT",
+    "scripts": {
+        "start": "json-server db.json"
+    },
+    "dependencies": {
+        "json-server": "^0.16.1"
+    }
+}
