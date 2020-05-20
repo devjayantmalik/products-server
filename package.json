@@ -6,7 +6,7 @@
     "author": "Jayant Malik",
     "license": "MIT",
     "scripts": {
-        "start": "json-server db.json"
+        "start": "node server.js"
     },
     "dependencies": {
         "json-server": "^0.16.1"
